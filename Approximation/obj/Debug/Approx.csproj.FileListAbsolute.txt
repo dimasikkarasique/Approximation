@@ -1,0 +1,9 @@
+C:\Users\Admin88\OneDrive\Desktop\Approximation\bin\Debug\Approx.exe.config
+C:\Users\Admin88\OneDrive\Desktop\Approximation\bin\Debug\Approx.exe
+C:\Users\Admin88\OneDrive\Desktop\Approximation\bin\Debug\Approx.pdb
+C:\Users\Admin88\OneDrive\Desktop\Approximation\obj\Debug\Approx.csprojAssemblyReference.cache
+C:\Users\Admin88\OneDrive\Desktop\Approximation\obj\Debug\Approximation_dots.MainForm.resources
+C:\Users\Admin88\OneDrive\Desktop\Approximation\obj\Debug\Approx.Properties.Resources.resources
+C:\Users\Admin88\OneDrive\Desktop\Approximation\obj\Debug\Approx.csproj.GenerateResource.cache
+C:\Users\Admin88\OneDrive\Desktop\Approximation\obj\Debug\Approx.exe
+C:\Users\Admin88\OneDrive\Desktop\Approximation\obj\Debug\Approx.pdb
